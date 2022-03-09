@@ -1,0 +1,16 @@
+form{
+  width: 15%;
+  margin: auto;
+  border: 0.2rem solid rgb(155, 191, 206);
+  box-sizing: border-box;
+  overflow: auto;
+  background-color: #ddd;
+}
+form input{
+  display: block;
+  margin-bottom: 2rem;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  border-color:#ddd;
+}
